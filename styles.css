@@ -2,8 +2,15 @@
 body{
 }
 
+.header {
+  text-align: center;
+  background: #4663ac;
+  color: white;
+  font-size: 20px;
+  width: 100%
+}
+
 body {
-  background-color: #06A4E7;
   width: 40%;
   margin: 0 auto; 
 }
