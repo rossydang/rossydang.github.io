@@ -1,29 +1,34 @@
-/* Your Styles Here */
-body{
-}
-
 .header {
   text-align: center;
   background: #4663ac;
   color: white;
   font-size: 20px;
-  width: 100%
+  width: 100%;
+  border-radius: 30px
 }
 
 body {
-  width: 40%;
+  width: 50%;
   margin: 0 auto; 
 }
 
-.name {
-  text-align: center;
-  margin: auto;
-  width: 80%;
+.wreck_container {
+  display:block;
+  margin-bottom: 1em;
+}
+
+.wreck_pic {
+  width: 60%;
+  float:left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  border-radius: 30px
 }
 
 .pic {
-  width: 60%;
+  float:left
 }
 
 p {
+  font-size: 1.2em;
 }
